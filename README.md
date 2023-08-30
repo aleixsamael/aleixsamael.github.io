@@ -32,8 +32,10 @@ I hope to get back in touch with some things I haven't touched in a while. These
 </h3>
 <div align="left">
 I am someone whose well-being depends on having opportunities to learn. I am a fast-learning autodidact, I like to teach myself new (natural) languages as well as new instruments. I consider myself a lifelong learner, autodidact, artist and musician. I'm a polyglot with 5 usable languages, some I merely understand and some that could be usable fairly fast if I gave them some atttention.<br>
-Currently I work as a Lenovo service technician, but I am exploring my options regarding a change to being a software developer. I have 10+ years of experience with unix-like systems with a focus on Arch Linux, Debian and OS X.<br>,<br>
-Here is a list of things I will (re)explore, though not necessarily in this repository.<br><br>
+Currently I work as a Lenovo service technician, but I am exploring my options regarding a change to being a software developer. I have 10+ years of experience with unix-like systems with a focus on Arch Linux, Debian and OS X.<br>
+
+Here is a list of things I will (re)explore, though not necessarily in this repository.<br>
+
 Things I already worked or played with:
 <ul>
 	<li>Python</li>
