@@ -6,15 +6,37 @@ html {
 }
 
 body {
+	margin: 0 auto;
+	
+}
 
+/* unvisited links */
+a:link {
+	color: #efceef;
+}
+
+/* link the user is currently pointing to */
+a:hover {
+	color: #fafcaa;
 }
 
 .center {
 	text-align: center;
 }
 
-#wrapper {
+.left {
+	text-align: left;
+}
 
+#wrapper {
+	width: 100%;
+	background-color: #171717;
+}
+
+#intro {
+	width: 80%;
+	margin: auto;
+	/* later. background-color: ; */
 }
 
 /*
