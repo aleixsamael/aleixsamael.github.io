@@ -1,4 +1,27 @@
+html {
+	font-size: 12pt;
+	font-family: "Calibri", "Open Sans", sans-serif;
+	color: #fadafa;
+	background-color: #232323;
+}
 
+body {
+
+}
+
+.center {
+	text-align: center;
+}
+
+#wrapper {
+
+}
+
+/*
+	I should probably do
+	body maintenance before
+	writing the rest of this... Meh
+*/
 
 /* Commented out for use as a re-learning playground
 
